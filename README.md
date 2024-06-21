@@ -22,7 +22,7 @@
 
 ##
 
-<h3 align="center">My Statistics:</h3>
+<h1 align="center">My Statistics:</h1>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -34,7 +34,7 @@
 </td>
 <td width="50%" height= 150 align="center">
 
-  <img align= center height="180em" width=1000 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTCorreia&layout=compact&langs_count=7&theme=dracula"/>
+  <img align= center height="400em" width=85% src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTCorreia&layout=compact&langs_count=7&theme=dark"/>
 
   </td>
 </tr>
