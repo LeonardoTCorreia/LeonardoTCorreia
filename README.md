@@ -1,7 +1,8 @@
 ### Hello World! I am Leonardo 👋
 
 - 🔭 I’m currently working on Management Process intern
-- 🌱 I’m currently learning Python
+- 🧠 I'm interested in Machine Learning, AI, Statistics and everything related to data
+- 🌱 I’m currently learning Python, SQL, SAS
 - 🎓 Systems Analysis and Development Student at IFSP
 
 
