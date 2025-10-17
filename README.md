@@ -1,9 +1,11 @@
 ### Hello World! I am Leonardo 👋
 
-- 🔭 I’m currently working on Management Process intern
-- 🧠 I'm interested in Machine Learning, AI, Statistics and everything related to data
-- 🌱 I’m currently learning Python, SQL, SAS
-- 🎓 Systems Analysis and Development Student at IFSP
+- 🔭 I’m currently **working as a Data Analytics intern at Livelo**, focusing on **dashboards, data visualization, and product analytics**.
+- 🌱 I’m currently learning and improving skills in **Python, SQL, BigQuery, Looker, Power BI** and exploring **storytelling with data**.
+- 🧠 I’m interested in **Business Intelligence, Analytics, Data Visualization, Machine Learning and AI**.
+- 🎓 **Systems Analysis and Development student at IFSP**, with a background in **Administration (FIEB TECH)**.
+- 📊 Passionate about **turning data into actionable insights** and delivering results that impact teams and products.
+
 
 
   [<img align="left" alt="leonardo-t-correia | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-t-correia/) <br>
